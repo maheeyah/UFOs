@@ -12,7 +12,7 @@ The data is filtered to only show the UFO sightings for the 1/2/2010.
 Users can filter further by including a state along with a date, "ca" and "1/2/2010".
 ![This is an image](https://github.com/maheeyah/UFOs/blob/main/Starter_Code%20(8)/Starter_Code/web/static/images/FilterByDataAndState.png)
 Users can include to filter for shape such as "sphere" along with a date, "ca" and "1/2/2010".
-![This is an image](https://github.com/maheeyah/UFOs/blob/main/Starter_Code%20(8)/Starter_Code/web/static/images/FilterByDateAndShapeAndState.png)
+![This is an image](https://github.com/maheeyah/UFOs/blob/main/Starter_Code%20(8)/Starter_Code/web/static/images/FilterByDateAndStateAndShape.png)
 The data is filtered for those criteria and no data has all three so the table is empty. 
 
 ## Summary:
