@@ -5,7 +5,7 @@ Although Dana's webpage is up and running, more in-depth analysis can be provide
 
 ## Results:
 The results of having five different filters allows user to filter large datasets and to be presented the data that they are interesting in seeing. Going to Dana's website the user sees this image: 
-![This is an image](firstopenwebsiteimage.png)
+![This is an image](FirstOpenWebsiteImage.png)
 ![This is an image](NAME?.png)
 
 ## Summary:
