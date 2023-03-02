@@ -5,9 +5,9 @@ Although Dana's webpage is up and running, more in-depth analysis can be provide
 
 ## Results:
 The results of having five different filters allows user to filter large datasets and to be presented the data that they are interesting in seeing. Going to Dana's website the user sees this image: 
-![This is an image] (https://github.com/maheeyah/UFOs/blob/main/Starter_Code%20(8)/Starter_Code/web/static/images/FirstOpenWebsiteImage.png)
+![This is an image](https://github.com/maheeyah/UFOs/blob/main/Starter_Code%20(8)/Starter_Code/web/static/images/FirstOpenWebsiteImage.png)
 Users can see that there are five different input boxes they can fill out to filter out the dataset. Users can either filter using one criteria, such as a specific date:
-![This is an image] (https://github.com/maheeyah/UFOs/blob/main/Starter_Code%20(8)/Starter_Code/web/static/images/FilterByDate.png)
+![This is an image](https://github.com/maheeyah/UFOs/blob/main/Starter_Code%20(8)/Starter_Code/web/static/images/FilterByDate.png)
 The data is filtered to only show the UFO sightings for the date asked.
 Users can filter further by including a state along with a date.
 ![This is an image](https://github.com/maheeyah/UFOs/blob/main/Starter_Code%20(8)/Starter_Code/web/static/images/FilterByDataAndState.png)
